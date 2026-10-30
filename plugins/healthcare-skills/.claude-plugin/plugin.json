@@ -1,0 +1,9 @@
+{
+  "name": "healthcare-skills",
+  "version": "1.0.0",
+  "description": "Common backend and frontend skills tailored for healthcare applications",
+  "author": { "name": "Healthcare Team" },
+  "license": "MIT",
+  "keywords": ["healthcare", "backend", "frontend", "medical", "patient"]
+}
+

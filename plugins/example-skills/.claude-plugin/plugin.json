@@ -1,0 +1,8 @@
+{
+  "name": "example-skills",
+  "version": "1.0.0",
+  "description": "Example skill bundle demonstrating the repo layout",
+  "author": { "name": "Your Name" },
+  "license": "MIT",
+  "keywords": ["example", "template"]
+}

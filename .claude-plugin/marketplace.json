@@ -1,0 +1,31 @@
+{
+  "name": "claude-skills",
+  "owner": {
+    "name": "Your Name",
+    "email": "you@example.com"
+  },
+  "metadata": {
+    "description": "A collection of reusable Claude skills",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "example-skills",
+      "source": "./plugins/example-skills",
+      "description": "Example skill bundle demonstrating the repo layout",
+      "version": "1.0.0",
+      "author": { "name": "Your Name" },
+      "category": "examples",
+      "keywords": ["example", "template"]
+    },
+    {
+      "name": "healthcare-skills",
+      "source": "./plugins/healthcare-skills",
+      "description": "Common backend and frontend skills tailored for healthcare applications",
+      "version": "1.0.0",
+      "author": { "name": "Healthcare Team" },
+      "category": "healthcare",
+      "keywords": ["healthcare", "backend", "frontend", "medical", "patient"]
+    }
+  ]
+}
