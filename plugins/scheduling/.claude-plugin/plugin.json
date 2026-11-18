@@ -1,0 +1,8 @@
+{
+  "name": "scheduling-skills",
+  "version": "1.0.0",
+  "description": "DevOps and cloud deployment skills for legacy modernization, containerization, and Azure deployment",
+  "author": { "name": "DevOps Team" },
+  "license": "MIT",
+  "keywords": ["devops", "azure", "containerization", "deployment", "dotnet", "legacy", "tech-debt", "aca"]
+}
